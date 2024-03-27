@@ -1,2 +1,5 @@
-# Hello-World
- curso first
+# Hello, World!!
+ 
+Primeira aula
+
+Aula feita no curso em video.
